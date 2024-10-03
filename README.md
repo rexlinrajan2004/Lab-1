@@ -1,7 +1,9 @@
 # Ex. No : 1
 # IMPLEMENTATION OF SYMBOL TABLE
-Register Number :212222040014
-
+```
+Name :  REXLIN R
+Register Number :212222220034
+```
 # AIM
 To write a C program to implement a symbol table.
 
